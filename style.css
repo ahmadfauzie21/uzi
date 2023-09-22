@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: block;
+   width: 90%;
+   margin: auto;
+  
+}
+#kpr {
+    width: 100%;
+  
+   border-radius: 20% 0 20% 0;
+}
+#logo {
+   border-radius: 50%;
+   width: 60%;
+   
+}
+h3 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Black Ops One', cursive;
+    margin-bottom: 10px;
+    margin-top: 30px;
+
+}
+ul {
+    list-style-type: circle;
+}
+a {
+   text-decoration: none;
+   font-family: 'Poppins', sans-serif;
+   font-weight: bold;
+
+}
